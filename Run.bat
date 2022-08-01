@@ -3,8 +3,8 @@ title first tool
 color A
 Echo you got rick rolled
 
-set url="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwienNuS6KX5AhVmQ0EAHcUTAjIQyCl6BAgVEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU"
-start microsoft-edge:%url%
+set url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+Start microsoft-edge:%url%
 
 echo We're no strangers to love
 echo You know the rules and so do I (do I)
